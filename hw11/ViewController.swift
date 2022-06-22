@@ -16,11 +16,8 @@ class ViewController: UIViewController {
     }
 
     @IBOutlet weak var avaImageView: UIImageView!
-    //Test comment
 
-
-
-
+    
 
 
 }
